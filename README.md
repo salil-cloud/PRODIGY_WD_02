@@ -1,4 +1,4 @@
-# Digital Clock with Stopwatch and Timer
+# Digital Clock with Stopwatch and Timer : https://salil-cloud.github.io/PRODIGY_WD_02/
 
 This repository contains a stylish and functional Digital Clock with additional features, including a Stopwatch and Timer. The project is crafted using HTML, CSS, JavaScript, and jQuery, providing an aesthetically pleasing user interface.
 
@@ -54,4 +54,6 @@ Feel free to contribute by opening issues, suggesting enhancements, or submittin
 
 License
 This project is licensed under the MIT License.
+
+
 
