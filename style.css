@@ -21,7 +21,19 @@ body {
   height: 100vh;
 }
 
-
+.header p {
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 25px;
+    position: fixed;
+    top: 0;
+    right: 1px;
+    left: 1px;
+    width: 100%;
+    padding: 20px;
+    color: #fff;
+    background-color: #6994c5;
+}
 .container {
   width: 100%;
   max-width: 800px;
